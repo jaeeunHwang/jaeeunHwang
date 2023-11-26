@@ -18,10 +18,21 @@ I am a undergraduate intern at IP-CAL in EWHA Womans University. I am interested
 <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/SLACK-4A154B?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=java&logoColor=white">
 
 ------------------------------------------------------------------------------------------------
+#### 💬 Github Stats
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjaeeunHwang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<p align="left"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=jaeeunHwang&theme=ambient_gradient&show_icons=true"/>
+</p>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wodms3127)](https://solved.ac/wodms3127)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeeunHwang&layout=compact&theme=highcontrast)
+
+
 
 <!--
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeeunHwang&langs_count=10&layout=compact&theme=dark)](https://github.com/jaeeunHwang/jaeeunHwang)﻿
-
 **jaeeunHwang/jaeeunHwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
