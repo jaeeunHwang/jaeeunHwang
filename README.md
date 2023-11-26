@@ -26,9 +26,9 @@ I am a undergraduate intern at IP-CAL in EWHA Womans University. I am interested
   <img src="https://github-readme-stats.vercel.app/api?username=jaeeunHwang&theme=ambient_gradient&show_icons=true"/>
 </p>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wodms3127)](https://solved.ac/wodms3127)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeeunHwang&layout=compact&theme=highcontrast)
+<!--[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wodms3127)](https://solved.ac/wodms3127)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeeunHwang&layout=compact&theme=dark)
 
 
 
