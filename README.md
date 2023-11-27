@@ -10,12 +10,13 @@ I am a undergraduate intern at IP-CAL in EWHA Womans University. I am interested
 
 ### 🌟Skills
 #### 🌱 I’m currently learning ...
-
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=C++&logoColor=white">  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=C++&logoColor=white">  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">  <img src="https://img.shields.io/badge/CUDA-00599C?style=for-the-badge&logo=C++&logoColor=white">  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=C++&logoColor=white">  
+<div style="display:flex; flex-direction:row;>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white">  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white">  <img src="https://img.shields.io/badge/CUDA-00599C?style=flat-square&logo=nvidia&logoColor=white">  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=aws&logoColor=white"> <img src="https://img.shields.io/badge/Bash-%234EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+</div>
 
 #### ✔️ I have experienced ...
 
-<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/SLACK-4A154B?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white">  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-003B57?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/SLACK-4A154B?style=flat-square&logo=slack&logoColor=white"> 
 
 ------------------------------------------------------------------------------------------------
 #### 💬 Github Stats
