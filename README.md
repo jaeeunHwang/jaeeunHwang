@@ -10,8 +10,15 @@ I am a undergraduate intern at IP-CAL in EWHA Womans University. I am interested
 
 ### 🌟Skills
 #### 🌱 I’m currently learning ...
-<div style="display:flex; flex-direction:row;>
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white">  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white">  <img src="https://img.shields.io/badge/CUDA-00599C?style=flat-square&logo=nvidia&logoColor=white">  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=aws&logoColor=white"> <img src="https://img.shields.io/badge/Bash-%234EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+
+<div style="display:flex; flex-direction:row;">
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"> 
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">  
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white">  
+  <img src="https://img.shields.io/badge/CUDA-00599C?style=flat-square&logo=nvidia&logoColor=white">  
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AWS&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Bash-%234EAA25?style=flat-square&logo=gnubash&logoColor=white">
 </div>
 
 #### ✔️ I have experienced ...
