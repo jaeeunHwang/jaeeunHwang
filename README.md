@@ -4,7 +4,7 @@
 </div>
 
 ### Hi, I am JaeEun Hwang 👋
-I am a undergraduate intern at IP-CAL in EWHA Womans University. I am interested in Graphics Processing Units(GPU), machine learning accelerators, parallel programming, and computer architecture. 
+I am a undergraduate intern at IP-CAL in EWHA Womans University. I am interested in Graphics Processing Units(GPU), parallel programming, scheduling, and system software. 
 
 ------------------------------------------------------------------------------------------------
 
