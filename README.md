@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=Waving&text=Hello%World!)
 </div>
@@ -23,7 +23,7 @@ I am a undergraduate intern at IP-CAL in EWHA Womans University. I am interested
 
 #### ✔️ I have experienced ...
 
-<img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white">  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-003B57?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/SLACK-4A154B?style=flat-square&logo=slack&logoColor=white"> 
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white">  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-003B57?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/SLACK-4A154B?style=flat-square&logo=slack&logoColor=white">  -->
 
 ------------------------------------------------------------------------------------------------
 #### 💬 Github Stats
