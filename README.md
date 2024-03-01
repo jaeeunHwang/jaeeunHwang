@@ -23,7 +23,7 @@ I am a undergraduate intern at IP-CAL in EWHA Womans University. I am interested
 
 #### ✔️ I have experienced ...
 
-<img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white">  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-003B57?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/SLACK-4A154B?style=flat-square&logo=slack&logoColor=white">  -->
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white">  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-003B57?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/SLACK-4A154B?style=flat-square&logo=slack&logoColor=white">  
 
 ------------------------------------------------------------------------------------------------
 #### 💬 Github Stats
@@ -36,7 +36,7 @@ I am a undergraduate intern at IP-CAL in EWHA Womans University. I am interested
 
 <!--[![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=je324)](https://solved.ac/je324)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeeunHwang&layout=compact&theme=dark)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeeunHwang&layout=compact&theme=dark) -->
 
 
 
